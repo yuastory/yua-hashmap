@@ -1,3 +1,3 @@
 # yua-hashmap
 
-light-weight hash map.
+light-weight customized hash map.
